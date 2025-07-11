@@ -5,15 +5,17 @@ social media mass report, tiktok report bot, instagram takedown tool, youtube ac
 📚 Keywords:
 mass reporting tool, tiktok account removal, report bot telegram, delete instagram account tool, youtube fake account remover, tiktok bot attack, bypass moderation tool, fake report system, tiktok enforcement software, social media deletion script
 -->
-![Banner](assets/banner.png)
+
+<p align="center">
+  <a href="https://t.me/RedRepo" target="_blank">
+    <img src="https://github.com/user-attachments/assets/60ab4b88-03c4-4ef1-8a62-7881229b139b" alt="Click to join Telegram" width="77%">
+  </a>
+</p>
 
 # TikTok Mass Report Tool
 
 🔒 **RedRepo** isn’t just another script.  
 It’s a precision-engineered reporting weapon designed to **disable, destabilize, and delete** high-risk TikTok targets — quietly, surgically, and without public trace.
-
-When reputation, business, or personal safety is at stake… speed isn’t enough.  
-**You need results.**
 
 ---
 
